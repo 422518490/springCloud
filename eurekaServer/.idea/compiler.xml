@@ -27,7 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eurekaServer" target="1.8" />
+      <module name="eurekaServer" target="1.6" />
       <module name="springCloud" target="1.6" />
     </bytecodeTargetLevel>
   </component>
